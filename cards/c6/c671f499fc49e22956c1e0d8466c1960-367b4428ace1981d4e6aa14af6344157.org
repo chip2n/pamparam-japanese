@@ -1,4 +1,9 @@
 * m
 #+STARTUP: content
+** scores
+| <2018-01-25> | 0 | いってらしさい |
+** stats
+(setq ease-factor 1.700000)
+(setq intervals '(1))
 * Please go and come back
 いってらっしゃい

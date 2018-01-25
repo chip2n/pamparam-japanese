@@ -1,4 +1,9 @@
 * m
 #+STARTUP: content
+** scores
+| <2018-01-25> | 5 |   |
+** stats
+(setq ease-factor 2.600000)
+(setq intervals '(1))
 * Thank you for the meal (after eating)
 ごちそうさま

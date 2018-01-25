@@ -1,4 +1,9 @@
 * m
 #+STARTUP: content
+** scores
+| <2018-01-25> | 0 | はじめまじえ |
+** stats
+(setq ease-factor 1.700000)
+(setq intervals '(1))
 * Nice to meet you
 よろしくおねがいします
