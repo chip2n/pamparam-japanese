@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* Excuse me / I'm sorry
+すみません

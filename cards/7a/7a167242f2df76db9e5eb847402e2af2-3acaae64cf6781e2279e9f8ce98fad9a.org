@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* I'll go and come back
+いってきます

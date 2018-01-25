@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* No / Not at all
+いいえ

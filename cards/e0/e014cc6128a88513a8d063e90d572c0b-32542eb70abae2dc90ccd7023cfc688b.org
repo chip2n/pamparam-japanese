@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* Thank you for the meal (before eating)
+いただきます

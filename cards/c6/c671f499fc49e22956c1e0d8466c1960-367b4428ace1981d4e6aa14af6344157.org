@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* Please go and come back
+いってらっしゃい

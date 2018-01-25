@@ -1,0 +1,4 @@
+* m
+#+STARTUP: content
+* Welcome home (polite)
+おかえりなさい
